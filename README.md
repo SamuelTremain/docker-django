@@ -7,7 +7,7 @@ A boilerplate to deploy Django with cool stuff. Also serves as an example projec
 The above tutorials describe how this boilerplate was created from scratch so that you can build your own.
 
 ### Basic Usage
-1. Fork the repo to your Github account.
+1. Fork the repo to your GitHub account.
 2. `git clone` the repo to your local computer.
 3. Run `make build` inside the root directory to build/rebuild (if necessary) all the containers in the project.
 4. Then run `make up` to start the containers and have them run as a daemon process (i.e., in the background).
