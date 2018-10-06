@@ -1,8 +1,9 @@
 ## Docker Compose configuration for Django development (and production) with Nginx, Celery, Redis and PostgreSQL
-A boilerplate to deploy Django with cool stuff. Also serves as an example project from these tutorial:
-1. <a href="https://ruddra.com/2016/08/14/docker-django-nginx-postgres/">Deploy Django, Gunicorn, NGINX, Postgresql using Docker</a>
-2. <a href="https://ruddra.com/2016/11/02/serve-static-files-by-nginx-from-django-using-docker/">Serve Static Files by Nginx from Django using Docker</a>
-3. <a href="https://ruddra.com/2016/11/14/docker-do-stuff-using-celery-using-redis-as-broker/">Docker: Use Celery in Django (Redis as Broker)</a>
+A boilerplate to deploy Django with cool stuff. Also serves as an example project from these tutorials:
+
+1. [Deploy Django, Gunicorn, NGINX, Postgresql using Docker](https://ruddra.com/2016/08/14/docker-django-nginx-postgres/)
+2. [Serve Static Files by Nginx from Django using Docker](https://ruddra.com/2016/11/02/serve-static-files-by-nginx-from-django-using-docker/)
+3. [Docker: Use Celery in Django (Redis as Broker)](https://ruddra.com/2016/11/14/docker-do-stuff-using-celery-using-redis-as-broker/)
 
 The above tutorials describe how this boilerplate was created from scratch so that you can build your own.
 
